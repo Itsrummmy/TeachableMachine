@@ -1,2 +1,2 @@
-0 Snowflake
-1 Discord
+0 Dobble (S)
+1 Dobble (HP)
